@@ -1,12 +1,7 @@
-# Robofriends
+# robofriends
+Tutorial for React
+To run the project:
 
-Keeping Robofriends project up to date with latest dependencies
-
-## to run
-
-1.  clone repo with https or SSH
-2.  install npm
-3.  run npm audit fix to fix any vulnerabilities
-4.  run npm update to update any dependencies listed in the package.json
-4.  run npm start
-
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
