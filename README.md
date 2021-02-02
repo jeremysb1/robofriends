@@ -1,6 +1,6 @@
 # robofriends
 
-The purpose of this project is to learn how to upgrade libraries to the latest versions and to learn hooks.
+I am teaching myself how to upgrade libraries, use hooks in React, and Redux.
 
 To run the project:
 
