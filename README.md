@@ -1,6 +1,6 @@
 # robofriends
 
-The purpose of this project is to learn how to upgrade libraries to the latest versions and to learn hooks.
+The purpose of this project is to learn how to learn how to increase app performance with hooks.
 
 To run the project:
 
